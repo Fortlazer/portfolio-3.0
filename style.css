@@ -1,0 +1,40 @@
+
+h1 {
+    color: brown;
+}
+
+/* {
+    border: solid;
+}
+*/
+.header {
+    background-color: aqua;
+    display: flex;
+    justify-content: space-between;
+    font-size: large;
+    font-style: italic;
+    color: gold;
+}
+
+.Grid {
+    background-color: chartreuse;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    font-style: italic;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+}
+
+p,h2 {
+    text-align: center;
+    font-style: italic;
+    color:azure;
+}
+
+body {
+   background-color: #ff00d4; 
+}
